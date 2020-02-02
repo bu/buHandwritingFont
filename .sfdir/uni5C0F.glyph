@@ -1,5 +1,5 @@
 StartChar: uni5C0F
-Encoding: 3 23567 3
+Encoding: 23567 23567 3
 Width: 228
 VWidth: 0
 Flags: HW
@@ -58,5 +58,5 @@ SplineSet
  176.828125 126 168.828125 129 160.828125 135 c 4
  158.828125 137 159.828125 139 159.828125 141 c 5
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar

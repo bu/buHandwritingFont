@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1580663072
-ModificationTime: 1580666830
+ModificationTime: 1580671191
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -38,13 +38,13 @@ HheadDescent: 0
 HheadDOffset: 1
 MarkAttachClasses: 1
 DEI: 91125
-Encoding: Original
+Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 8 2
+WinInfo: 22408 8 2
 BeginPrivate: 0
 EndPrivate
 Grid

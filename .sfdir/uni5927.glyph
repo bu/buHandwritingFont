@@ -1,5 +1,5 @@
 StartChar: uni5927
-Encoding: 2 22823 2
+Encoding: 22823 22823 2
 Width: 218
 VWidth: 0
 Flags: HW
@@ -64,5 +64,5 @@ SplineSet
  114.686523438 145 110.686523438 142 108.686523438 140 c 0
  106.686523438 134 102.686523438 130 100.686523438 124 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
