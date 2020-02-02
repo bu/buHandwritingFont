@@ -9,9 +9,11 @@ It will be updated once new character is required.
 
 For example, from handwriting on paper like this one:
 
+![Original Handwriting on Paper](readme/original-handwriting.png)
 
 to show on webpage like this one:
 
+![Text shown on webpage based on this font](readme/shown-on-page.png)
 
 The benefit of using this approach is that the text still plaint text, only shown using our custom font.
 This approach is more accessible than scan these text into images and place them on page.
